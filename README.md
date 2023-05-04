@@ -1,5 +1,5 @@
 # Gomoku Game AI
-To play game simply the command lines in terminal
+To play game simply copy the command lines in terminal
 
 ```
 python3 -m venv venv
